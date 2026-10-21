@@ -1,2 +1,2 @@
-FROM php:7.4-apache
+FROM php:8.3-apache
 COPY refresh503.php /var/www/html/
